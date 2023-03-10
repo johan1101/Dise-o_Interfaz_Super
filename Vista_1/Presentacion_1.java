@@ -1,12 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
+//Presentacion_1
 package Vista_1;
 
 /**
  *
- * @author Johan Ordoñez
+ * @author Johan Ordoñez 
  */
 public class Presentacion_1 extends javax.swing.JFrame {
 
